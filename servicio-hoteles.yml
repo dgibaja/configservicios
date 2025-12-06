@@ -22,5 +22,4 @@ eureka:
   instance:
     prefer-ip-address: true
     ip-address: 127.0.0.1
-    # OPCIONAL: solo si quieres seguir tu patrón de nombres
     instance-id: servicio-hoteles-1
